@@ -1,1 +1,1 @@
- Link Repository: https://github.com/Lidya102938/Tugas_MP1.git
+ Link Repository: https://github.com/Megasukmawati/Tugas_MP1_Mega.git
